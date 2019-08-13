@@ -81,7 +81,7 @@
 * Sunburst
     * [Basic Sunburst](https://www.echartsjs.com/examples/editor.html?c=sunburst-simple) -- [pyecharts Code](https://github.com/pyecharts/pyecharts-gallery/blob/master/Sunburst/basic_sunburst.py)
     * [Drink Flavors](https://www.echartsjs.com/examples/editor.html?c=sunburst-simple) -- [pyecharts Code](https://github.com/pyecharts/pyecharts-gallery/blob/master/Sunburst/drink_flavors.py)
-    * [Film Sunburst](https://echarts.baidu.com/examples/editor.html?c=sunburst-book) -- [pyecharts Code](https://github.com/d8ye/pyecharts-gallery/blob/master/Sunburst/film_sunburst.py)
+    * [Film Sunburst](https://echarts.baidu.com/examples/editor.html?c=sunburst-book) -- [pyecharts Code](https://github.com/d8ye/pyecharts-gallery/blob/master/Sunburst/film_records.py)
 
 * Parallel
     * [Basic Parallel](https://echarts.baidu.com/examples/editor.html?c=parallel-simple) -- [pyecharts Code](https://github.com/pyecharts/pyecharts-gallery/blob/master/Parallel/basic_parallel.py) 
