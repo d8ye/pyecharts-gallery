@@ -3,6 +3,14 @@ from pyecharts import options as opts
 from pyecharts.charts import Sunburst
 from pyecharts.commons.utils import JsCode
 
+"""
+Gallery 使用 pyecharts 1.3.1
+参考地址: https://echarts.baidu.com/examples/editor.html?c=sunburst-book
+
+目前无法实现的功能:
+暂无
+"""
+
 film_data = [{"分类":  "电影", "类型":  "喜剧", "评分":  "5☆", "名称":  "我不是药神"},
 {"分类":  "电影", "类型":  "喜剧", "评分":  "4☆", "名称":  "无名之辈"},
 {"分类":  "电影", "类型":  "喜剧", "评分":  "4☆", "名称":  "阿浪的远方"},
