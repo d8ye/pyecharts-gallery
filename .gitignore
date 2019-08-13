@@ -76,7 +76,7 @@ target/
 .python-version
 
 # Pycharm config
-.idea/
+.idea
 
 # celery beat schedule file
 celerybeat-schedule
